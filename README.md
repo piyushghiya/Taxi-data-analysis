@@ -2,14 +2,6 @@
 #Big Data Analytics Project
 <hr/>
 
-Team Members-
-
-|Name                    |    Net ID    |  University ID|
-|------------------------|:------------:|---------------|
-|Vaibhav Aggarwal        |    va771     |  N15019899    |
-|Ginni Malik             |    gm1908    |  N18379090    |
-
-
 Project Choice –
 We have selected the project area – “exploring NYC Taxi Trips”.
 We would use the following datasets –
@@ -38,10 +30,9 @@ Tasks to be carried out –
 Timeline
 
 
-|Date       | Details
-|-----------|---------------------------------------------------------------------------------------------------------------
-|April 11   | Submitting Project Proposal, Google doc and creating Github repo
-|April 18   | Performing analyses and revising the initial plan accordingly and also develop new ideas while doing analyses
-|May 2      | To create a web app for User Interface so that data analyzed can be visualized interactively
-|May 14     | Testing the analyses and visualization and submitting the final report
-|May 17     | Presenting the project analyses
+ Details
+ Submitting Project Proposal, Google doc and creating Github repo
+ Performing analyses and revising the initial plan accordingly and also develop new ideas while doing analyses
+ To create a web app for User Interface so that data analyzed can be visualized interactively
+ Testing the analyses and visualization and submitting the final report
+ Presenting the project analyses
